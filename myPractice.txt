@@ -1,0 +1,5 @@
+
+Welcome to the git practice file
+
+we created a repository with name practice
+we added a Read.Me file while creating repository.
